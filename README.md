@@ -38,3 +38,27 @@ The automation script opens [SmartBuy Register Page](https://smartbuy-me.com/ar/
 
 ## 📂 Project Structure
 
+---
+
+## 📌 Notes
+
+- This project is for educational/testing purposes only.
+- The database used is `classicmodels`, and the customer data is simulated.
+- Password is generated using the last name and a fixed suffix.
+
+---
+
+## ✅ What I Learned
+
+- Integrating database with test automation
+- Performing CRUD operations using JDBC
+- Using Selenium to interact with live websites
+- Building structured test cases using TestNG
+
+---
+
+## 📎 Author
+
+**Dalia Al-Dajeh**  
+Aspiring QA Engineer | Automation Enthusiast
+
