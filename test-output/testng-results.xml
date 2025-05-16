@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-16T22:44:22 GMT+03:00" name="Default suite" finished-at="2025-05-16T22:44:29 GMT+03:00" duration-ms="6234">
+    <groups>
+    </groups>
+    <test started-at="2025-05-16T22:44:22 GMT+03:00" name="Default test" finished-at="2025-05-16T22:44:29 GMT+03:00" duration-ms="6234">
+      <class name="SQL_first.SQL_first.AppTest">
+        <test-method is-config="true" signature="mysetup()[pri:0, instance:SQL_first.SQL_first.AppTest@544820b7]" started-at="2025-05-16T22:44:22 GMT+03:00" name="mysetup" finished-at="2025-05-16T22:44:28 GMT+03:00" duration-ms="5410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mysetup -->
+        <test-method signature="Insert_to_DataBase()[pri:1, instance:SQL_first.SQL_first.AppTest@544820b7]" started-at="2025-05-16T22:44:28 GMT+03:00" name="Insert_to_DataBase" finished-at="2025-05-16T22:44:28 GMT+03:00" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Insert_to_DataBase -->
+        <test-method signature="Update_DataBase()[pri:2, instance:SQL_first.SQL_first.AppTest@544820b7]" started-at="2025-05-16T22:44:28 GMT+03:00" name="Update_DataBase" finished-at="2025-05-16T22:44:28 GMT+03:00" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Update_DataBase -->
+        <test-method signature="Read_DataBase()[pri:3, instance:SQL_first.SQL_first.AppTest@544820b7]" started-at="2025-05-16T22:44:28 GMT+03:00" name="Read_DataBase" finished-at="2025-05-16T22:44:29 GMT+03:00" duration-ms="550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Read_DataBase -->
+        <test-method signature="Delete_from_DataBase()[pri:4, instance:SQL_first.SQL_first.AppTest@544820b7]" started-at="2025-05-16T22:44:29 GMT+03:00" name="Delete_from_DataBase" finished-at="2025-05-16T22:44:29 GMT+03:00" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete_from_DataBase -->
+        <test-method signature="confirm_delete()[pri:5, instance:SQL_first.SQL_first.AppTest@544820b7]" started-at="2025-05-16T22:44:29 GMT+03:00" name="confirm_delete" finished-at="2025-05-16T22:44:29 GMT+03:00" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirm_delete -->
+      </class> <!-- SQL_first.SQL_first.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
